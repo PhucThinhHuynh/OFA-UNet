@@ -1,7 +1,7 @@
 # OFA-UNet: A One-For-All and Auxiliary Fusion Architecture for Efficient Signal Identification
 
 
-![OFA-UNet architecture overview with OFA-GConv and HAF integration.](OFAUNet.jpg)
+![OFA-UNet architecture overview with OFA-GConv and HAF integration.](OFA_UNet.png)
 
 The dataset can be download on [Kaggle](https://www.kaggle.com/datasets/thinh511/irecspecunet-data) (please report if not available).
 
